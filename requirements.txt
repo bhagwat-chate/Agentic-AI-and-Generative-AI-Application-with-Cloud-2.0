@@ -10,3 +10,6 @@ langchain-huggingface
 faiss-cpu
 pypdf
 langchain_google_genai
+HuggingFaceEmbeddings
+pinecone
+langchain_pinecone
