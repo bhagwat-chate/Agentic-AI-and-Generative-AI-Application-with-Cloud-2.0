@@ -8,3 +8,5 @@ langchain-community
 sentence-transformers
 langchain-huggingface
 faiss-cpu
+pypdf
+langchain_google_genai
