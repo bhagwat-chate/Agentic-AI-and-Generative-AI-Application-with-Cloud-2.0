@@ -14,3 +14,4 @@ HuggingFaceEmbeddings
 pinecone
 langchain_pinecone
 unstructured
+pymongo

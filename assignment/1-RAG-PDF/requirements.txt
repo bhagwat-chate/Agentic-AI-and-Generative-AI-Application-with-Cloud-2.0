@@ -1,0 +1,10 @@
+ipykernel
+langchain
+dotenv
+langchain_community
+pypdf
+langchain_groq
+langchain_huggingface
+pymilvus
+milvus
+faiss-cpu
