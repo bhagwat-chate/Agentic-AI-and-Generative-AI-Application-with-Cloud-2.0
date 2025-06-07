@@ -16,3 +16,4 @@ unstructured
 pymongo
 wikipedia
 youtube_search
+langgraph
